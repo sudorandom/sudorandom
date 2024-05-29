@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate backend software engineer</h3>
 <p align="center">
-    I'm an <b>IT enthusiast</b>, <b>backend software engineer</b>, <b>father</b> from Texas but living in <b>Copenhagen, Denmark</b>. I have passion for programming and I like to use code and data to do interesting things.
+    I'm an <b>backend software engineer</b>, <b>father</b>, and <b>lifelong learner</b> from Texas but living in <b>Copenhagen, Denmark</b>. I have passion for programming and I like to use code and data to do interesting things.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=sudorandom)
