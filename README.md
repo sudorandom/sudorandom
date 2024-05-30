@@ -14,7 +14,7 @@
 
 - 💬 Pronouns: **He/His**
 - 📝 I write articles on my <a href="https://kmcd.dev/">blog</a>
-- 📫 Reach me : <a href="mailto:kevin@kmcd.dev">kmcd.dev</a>
+- 📫 Reach me: <a href="mailto:kevin@kmcd.dev">kmcd.dev</a>
 - 📄 Learn more about <a href="https://kmcd.dev/me/">me</a>.
 - ⚡ Fun fact: I was a projectionist throughout high school and college 🎥
 
