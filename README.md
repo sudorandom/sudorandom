@@ -23,4 +23,4 @@
  - <a href="https://infosec.exchange/@sudorandom" target="_blank" rel="me" title="Mastodon">infosec.exchange/@sudorandom</a>
  - <a href="https://linkedin.com/in/sudorandom" target="_blank" rel="me" title="Linkedin">linkedin.com/in/sudorandom</a>
  - <a href="https://github.com/sudorandom" target="_blank" rel="me" title="Github">github.com/sudorandom</a>
- - <a href="https://bsky.app/profile/sudorandom.bsky.social" target="_blank" rel="me" title="Bluesky">bsky.app/profile/sudorandom.bsky.social</a>
+ - <a href="https://bsky.app/profile/kmcd.dev" target="_blank" rel="me" title="Bluesky">bsky.app/profile/kmcd.dev</a>
